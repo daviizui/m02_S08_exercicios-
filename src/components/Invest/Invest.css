@@ -1,0 +1,37 @@
+.invest-section {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.invest-section h2 {
+  margin-top: 50px;
+  color: rgb(5, 87, 49);
+  align-self: self-start;
+}
+
+.invest-section ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  gap: 10px;
+}
+
+.invest-section li {
+  list-style: none;
+  background-color: rgb(221, 247, 226);
+  border-radius: 8px;
+  border-left: 5px solid rgb(5, 87, 49);
+  width: 30%;
+  padding: 20px 15px;
+}
+
+.invest-section h3 {
+  font-size: 15px;
+}
+
+.invest-section p {
+  font-size: 13px;
+  margin: 5px 0;
+}

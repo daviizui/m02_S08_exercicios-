@@ -1,5 +1,6 @@
 import "./App.css";
 import AboutUs from "./components/AboutUs/AboutUs";
+import Invest from "./components/Invest/Invest";
 import NavBar from "./components/NavBar/NavBar";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       </header>
       <NavBar />
       <AboutUs />
+      <Invest />
     </>
   );
 }
