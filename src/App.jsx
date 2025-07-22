@@ -1,4 +1,5 @@
 import "./App.css";
+import NavBar from "./components/NavBar/NavBar";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         <h1>Energia Solar 365</h1>
         <p>Economize com o sol. Invista no seu futuro</p>
       </header>
+      <NavBar />
     </>
   );
 }

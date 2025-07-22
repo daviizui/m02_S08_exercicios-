@@ -1,0 +1,22 @@
+.nav-bar {
+  background-color: rgb(29, 160, 99);
+  color: white;
+}
+
+.nav-bar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-bar li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
