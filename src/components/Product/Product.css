@@ -1,0 +1,16 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.product h2 {
+  color: rgb(5, 87, 49);
+  margin-top: 50px;
+}
+
+.product div {
+  display: flex;
+  gap: 10px;
+}

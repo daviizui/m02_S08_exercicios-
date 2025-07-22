@@ -2,6 +2,7 @@ import "./App.css";
 import AboutUs from "./components/AboutUs/AboutUs";
 import Invest from "./components/Invest/Invest";
 import NavBar from "./components/NavBar/NavBar";
+import Product from "./components/Product/Product";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <NavBar />
       <AboutUs />
       <Invest />
+      <Product />
     </>
   );
 }
