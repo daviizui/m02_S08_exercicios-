@@ -1,4 +1,5 @@
 import "./App.css";
+import AboutUs from "./components/AboutUs/AboutUs";
 import NavBar from "./components/NavBar/NavBar";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
         <p>Economize com o sol. Invista no seu futuro</p>
       </header>
       <NavBar />
+      <AboutUs />
     </>
   );
 }
