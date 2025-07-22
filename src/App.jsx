@@ -3,6 +3,7 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Invest from "./components/Invest/Invest";
 import NavBar from "./components/NavBar/NavBar";
 import Product from "./components/Product/Product";
+import Request from "./components/Request/Request";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <AboutUs />
       <Invest />
       <Product />
+      <Request />
     </>
   );
 }

@@ -9,7 +9,7 @@ export default function NavBar() {
             <a href="#sobre-nos">Sobre nós</a>
             <a href="#por-que-investir">Por que investir?</a>
             <a href="#produto">Produtos</a>
-            <a href="#orcament">Orçamentos</a>
+            <a href="#orcamento">Orçamentos</a>
           </li>
         </ul>
       </nav>
